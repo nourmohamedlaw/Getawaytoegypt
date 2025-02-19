@@ -2,7 +2,9 @@
 Tourism company 
     <!-- هيدر مع اللوجو -->
 <header>
-    <img src="logo.png" alt="<img src="your-image-link.jpg" alt="Gateway to Egypt Logo" width="300"> class="logo">
+    
+   
+   <img src="data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..." alt="Gateway to Egypt">
     <h1>مرحبًا بكم في Getaway Egypt</h1>
     <p>اكتشف جمال مصر معنا!</p>
 </header>
