@@ -1,17 +1,38 @@
 # GETAWAY TO EGYPT
-Tourism company
+Tourism company 
+    <!-- هيدر مع اللوجو -->
+<header>
+    <img src="logo.png" alt="لوجو الشركة" class="logo">
+    <h1>مرحبًا بكم في Getaway Egypt</h1>
+    <p>اكتشف جمال مصر معنا!</p>
+</header>
 
-1️⃣ ملف index.html (الصفحة الرئيسية)
+<!-- بوستر سياحي -->
+<img src="poster.jpg" alt="بوستر سياحي" class="banner">
 
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Getaway Egypt - شركة سياحة</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body>
+<!-- الخدمات -->
+<div class="container">
+    <h2>خدماتنا</h2>
+    <div class="services">
+        <div class="service-box">
+            <h3>جولات سياحية</h3>
+            <p>استمتع بجولات سياحية في أجمل الأماكن في مصر.</p>
+        </div>
+        <div class="service-box">
+            <h3>حجوزات فنادق</h3>
+            <p>نوفر لك أفضل العروض على الفنادق والمنتجعات.</p>
+        </div>
+        <div class="service-box">
+            <h3>رحلات بحرية</h3>
+            <p>عيش المغامرة مع رحلاتنا البحرية الرائعة!</p>
+        </div>
+    </div>
+</div>
 
-    <!-- الهيدر --
+<!-- تواصل معنا -->
+<div class="contact">
+    <h2>تواصل معنا</h2>
+    <p>📞 الهاتف: 0123456789</p>
+    <p>📧 الإيميل: <a href="info@getawayegypt.com">info@getawayegypt.com</a></p>
+    <p>🌍 موقعنا: <a href="https://getawayegypt.com">getawayegypt.com</a></p>
+</div>
